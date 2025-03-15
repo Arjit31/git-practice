@@ -1,4 +1,7 @@
-
+file2 change2 in master branch
 this is file 2 for git practice
 changes made in file2.txt to check branching behaviour
 making changes to file 2
+
+
+file2 change1 in master branch
