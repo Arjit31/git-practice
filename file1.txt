@@ -3,3 +3,5 @@ this is file 1 for git practice
 file 1 modified for git branch testing
 
 modified file1.txt
+
+testing diff commands
