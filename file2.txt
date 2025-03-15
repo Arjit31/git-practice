@@ -1,3 +1,4 @@
 
 this is file 2 for git practice
+changes made in file2.txt to check branching behaviour
 making changes to file 2
