@@ -1,4 +1,6 @@
 bug fix file newly added to test git branches
 
+fix third bug  
+
 
 fixed another bug
